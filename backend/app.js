@@ -11,7 +11,7 @@ const graphqlSchema = require('./graphql/schema');
 const graphqlResolver = require('./graphql/resolvers');
 
 const MONGO_DB_URI =
-  'mongodb+srv://user_new:lV4uIAhDOYn44jHa@cluster0.9i27z.mongodb.net/messages?retryWrites=true&w=majority';
+  '';
 
 // const privateKey = fs.readFileSync('server.key');
 // const certificate = fs.readFileSync('server.cert');
